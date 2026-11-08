@@ -343,6 +343,7 @@ impl Installable {
 }
 
 #[cfg(test)]
+#[expect(clippy::unwrap_used, clippy::expect_used, reason = "Fine in tests")]
 mod tests {
   use super::*;
 
