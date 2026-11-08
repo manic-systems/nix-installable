@@ -6,6 +6,10 @@
 !Cargo.toml
 !LICENSE
 !README.md
+!flake.lock
+!flake.nix
 
+!nix/
+!nix/**
 !src/
 !src/**
