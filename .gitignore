@@ -9,6 +9,8 @@
 !flake.lock
 !flake.nix
 
+!.github/
+!.github/**
 !nix/
 !nix/**
 !src/
